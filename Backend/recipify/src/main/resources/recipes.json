@@ -1,0 +1,288 @@
+[
+  {
+    "name": "Hyderabadi Chicken Biryani",
+    "description": "Authentic 'Dum' style chicken biryani from Hyderabad. Layers of fragrant basmati rice and succulent chicken, marinated in aromatic spices and slow-cooked to perfection.",
+    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21bc4a4f8?q=80&w=1000&auto=format&fit=crop",
+    "prepTime": 90,
+    "difficulty": "Hard",
+    "category": "Biryani",
+    "servings": 4,
+    "ingredients": [
+      {"name": "Basmati Rice", "quantity": "500g", "cost": 80.0},
+      {"name": "Chicken", "quantity": "500g", "cost": 150.0},
+      {"name": "Yogurt", "quantity": "1 cup", "cost": 30.0},
+      {"name": "Fried Onions", "quantity": "1 cup", "cost": 20.0},
+      {"name": "Saffron", "quantity": "a pinch", "cost": 40.0},
+      {"name": "Whole Spices", "quantity": "2 tbsp", "cost": 10.0}
+    ],
+    "instructions": [
+      "Marinate chicken with yogurt and spices for 4 hours.",
+      "Par-boil rice with whole spices until 70% done.",
+      "Layer marinated chicken and par-boiled rice in a heavy pot.",
+      "Top with fried onions, mint, and saffron milk.",
+      "Seal with dough and cook on low heat (dum) for 45 minutes."
+    ],
+    "estimatedCost": 330.0,
+    "suggestions": ["Serve with Mirchi Ka Salan and Raita."]
+  },
+  {
+    "name": "Paneer Butter Masala",
+    "description": "A rich and creamy North Indian favorite. Soft paneer cubes in a velvety tomato-based gravy enriched with butter and cream.",
+    "imageUrl": "https://images.unsplash.com/photo-1567184109171-9699d886919e?q=80&w=1000&auto=format&fit=crop",
+    "prepTime": 40,
+    "difficulty": "Medium",
+    "category": "Paneer",
+    "servings": 3,
+    "ingredients": [
+      {"name": "Paneer", "quantity": "250g", "cost": 120.0},
+      {"name": "Tomatoes", "quantity": "3 large", "cost": 30.0},
+      {"name": "Butter", "quantity": "50g", "cost": 30.0},
+      {"name": "Fresh Cream", "quantity": "2 tbsp", "cost": 10.0},
+      {"name": "Cashews", "quantity": "10 nos", "cost": 20.0}
+    ],
+    "instructions": [
+      "Puree tomatoes and cashews together.",
+      "Saute ginger-garlic paste in butter.",
+      "Add puree and cook until oil separates.",
+      "Mix in paneer cubes and simmer with cream.",
+      "Garnish with fresh coriander."
+    ],
+    "estimatedCost": 210.0,
+    "suggestions": ["Pairs perfectly with Garlic Naan."]
+  },
+  {
+    "name": "Masala Dosa",
+    "description": "The quintessential South Indian breakfast. Crispy golden crepes stuffed with a savory, spiced potato masala.",
+    "imageUrl": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?q=80&w=1000&auto=format&fit=crop",
+    "prepTime": 30,
+    "difficulty": "Medium",
+    "category": "Dosa",
+    "servings": 2,
+    "ingredients": [
+      {"name": "Dosa Batter", "quantity": "500ml", "cost": 50.0},
+      {"name": "Potatoes", "quantity": "3 medium", "cost": 15.0},
+      {"name": "Onion", "quantity": "1 large", "cost": 5.0},
+      {"name": "Curry Leaves", "quantity": "1 sprig", "cost": 2.0}
+    ],
+    "instructions": [
+      "Prepare potato masala by sautéing mashed potatoes with spices.",
+      "Spread dosa batter thinly on a hot griddle.",
+      "Drizzle ghee and cook until golden brown.",
+      "Place potato stuffing and fold.",
+      "Serve hot with coconut chutney and sambar."
+    ],
+    "estimatedCost": 72.0,
+    "suggestions": ["Serve with a dollop of butter on top."]
+  },
+  {
+    "name": "Chole Bhature",
+    "description": "Hearty Punjabi classic. Spicy chickpeas (chole) paired with soft, fluffy deep-fried leavened bread (bhature).",
+    "imageUrl": "https://images.unsplash.com/photo-1596797038530-2c39bb9edc6c?q=80&w=1000&auto=format&fit=crop",
+    "prepTime": 60,
+    "difficulty": "Hard",
+    "category": "Chole",
+    "servings": 3,
+    "ingredients": [
+      {"name": "Chickpeas", "quantity": "250g", "cost": 40.0},
+      {"name": "Maida (Flour)", "quantity": "2 cups", "cost": 20.0},
+      {"name": "Yogurt", "quantity": "1/4 cup", "cost": 10.0},
+      {"name": "Oil", "quantity": "for frying", "cost": 50.0}
+    ],
+    "instructions": [
+      "Soak chickpeas overnight and pressure cook until soft.",
+      "Prepare a spicy onion-tomato gravy with chole masala.",
+      "Knead bhatura dough with yogurt and let it rest.",
+      "Roll out bhaturas and deep fry until puffed.",
+      "Serve hot with pickles and onion rings."
+    ],
+    "estimatedCost": 120.0,
+    "suggestions": ["Add a tea bag while boiling chole for deep color."]
+  },
+  {
+    "name": "Vada Pav",
+    "description": "Mumbai's iconic street food. A spicy potato fritter (vada) sandwiched in a soft bun (pav) with zesty chutneys.",
+    "imageUrl": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?q=80&w=1000&auto=format&fit=crop",
+    "prepTime": 45,
+    "difficulty": "Medium",
+    "category": "Vada Pav",
+    "servings": 4,
+    "ingredients": [
+      {"name": "Pav (Buns)", "quantity": "8 nos", "cost": 40.0},
+      {"name": "Potatoes", "quantity": "500g", "cost": 20.0},
+      {"name": "Besan (Gram Flour)", "quantity": "1 cup", "cost": 20.0},
+      {"name": "Garlic Chutney", "quantity": "1/2 cup", "cost": 10.0}
+    ],
+    "instructions": [
+      "Make potato balls seasoned with garlic and chilies.",
+      "Dip balls in besan batter and deep fry until golden.",
+      "Apply spicy garlic chutney inside the pav.",
+      "Place the vada and press gently.",
+      "Serve with fried green chilies."
+    ],
+    "estimatedCost": 90.0,
+    "suggestions": ["The dry garlic chutney is essential for the kick!"]
+  },
+  {
+    "name": "Palak Paneer",
+    "description": "A healthy and delicious spinach-based dish. Freshly pureed spinach cooked with spices and soft paneer cubes.",
+    "imageUrl": "https://images.unsplash.com/photo-1601050633647-81a35d37c331?q=80&w=1000&auto=format&fit=crop",
+    "prepTime": 35,
+    "difficulty": "Easy",
+    "category": "Paneer",
+    "servings": 3,
+    "ingredients": [
+      {"name": "Spinach", "quantity": "500g", "cost": 30.0},
+      {"name": "Paneer", "quantity": "200g", "cost": 100.0},
+      {"name": "Garlic", "quantity": "10 cloves", "cost": 5.0}
+    ],
+    "instructions": [
+      "Blanch spinach and puree into a smooth paste.",
+      "Saute lots of garlic and ginger in butter.",
+      "Add spinach paste and cook for 5 minutes.",
+      "Add paneer cubes and salt. Simmer briefly.",
+      "Finish with a dash of cream."
+    ],
+    "estimatedCost": 135.0,
+    "suggestions": ["Do not overcook the spinach to keep its bright color."]
+  },
+  {
+    "name": "Chicken Tikka Masala",
+    "description": "Grilled marinated chicken chunks in a spicy, creamy tomato-based sauce. A global favorite of Indian cuisine.",
+    "imageUrl": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?q=80&w=1000&auto=format&fit=crop",
+    "prepTime": 50,
+    "difficulty": "Medium",
+    "category": "Main Course",
+    "servings": 4,
+    "ingredients": [
+      {"name": "Chicken Boneless", "quantity": "500g", "cost": 150.0},
+      {"name": "Cream", "quantity": "2 tbsp", "cost": 10.0},
+      {"name": "Onion & Tomato", "quantity": "2 each", "cost": 20.0}
+    ],
+    "instructions": [
+      "Grill marinated chicken tikka pieces first.",
+      "Prepare a thick onion-tomato gravy with tandoori spices.",
+      "Add the grilled chicken to the gravy.",
+      "Simmer with cream and kasuri methi.",
+      "Serve hot with naan."
+    ],
+    "estimatedCost": 180.0,
+    "suggestions": ["Smoky flavor from grilling is the highlight."]
+  },
+  {
+    "name": "Dal Makhani",
+    "description": "Creamy black lentils slow-cooked overnight. A rich Punjabi delicacy made with butter, cream, and aromatic spices.",
+    "imageUrl": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?q=80&w=1000&auto=format&fit=crop",
+    "prepTime": 120,
+    "difficulty": "Hard",
+    "category": "Dal Makhani",
+    "servings": 4,
+    "ingredients": [
+      {"name": "Black Urad Dal", "quantity": "250g", "cost": 40.0},
+      {"name": "Butter", "quantity": "100g", "cost": 60.0},
+      {"name": "Fresh Cream", "quantity": "1/2 cup", "cost": 40.0}
+    ],
+    "instructions": [
+      "Soak dal overnight and pressure cook until very soft.",
+      "Simmer the dal with tomato puree and ginger-garlic paste for 2 hours.",
+      "Mash some lentils for that thick, velvety texture.",
+      "Add butter and cream. Simmer for another 20 minutes.",
+      "Serve with a dollop of white butter."
+    ],
+    "estimatedCost": 140.0,
+    "suggestions": ["The longer it simmers, the better it tastes."]
+  },
+  {
+    "name": "Pav Bhaji",
+    "description": "A buttery vegetable mash served with toasted pav. Mumbai's favorite street-side snack that's as colorful as it is tasty.",
+    "imageUrl": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?q=80&w=1000&auto=format&fit=crop",
+    "prepTime": 45,
+    "difficulty": "Medium",
+    "category": "Snacks",
+    "servings": 3,
+    "ingredients": [
+      {"name": "Mixed Veggies", "quantity": "500g", "cost": 50.0},
+      {"name": "Pav", "quantity": "6 nos", "cost": 30.0},
+      {"name": "Butter", "quantity": "100g", "cost": 60.0}
+    ],
+    "instructions": [
+      "Boil and mash vegetables (potatoes, peas, carrots).",
+      "Cook with pav bhaji masala, onions, and tomatoes in lots of butter.",
+      "Mash while cooking on a flat tawa for authentic texture.",
+      "Toast pav with butter and chili powder.",
+      "Serve with onions, lemon, and extra butter."
+    ],
+    "estimatedCost": 140.0,
+    "suggestions": ["Squeeze fresh lemon for that zingy finish."]
+  },
+  {
+    "name": "Gajar Ka Halwa",
+    "description": "A classic Indian winter dessert. Grated carrots slow-cooked with milk, sugar, and ghee, garnished with dry fruits.",
+    "imageUrl": "https://images.unsplash.com/photo-1589119908995-c6837fa14848?q=80&w=1000&auto=format&fit=crop",
+    "prepTime": 60,
+    "difficulty": "Medium",
+    "category": "Desserts",
+    "servings": 5,
+    "ingredients": [
+      {"name": "Carrots", "quantity": "1kg", "cost": 60.0},
+      {"name": "Milk", "quantity": "1 liter", "cost": 70.0},
+      {"name": "Sugar", "quantity": "1 cup", "cost": 20.0},
+      {"name": "Ghee", "quantity": "4 tbsp", "cost": 40.0}
+    ],
+    "instructions": [
+      "Grate carrots and cook in milk until it evaporates.",
+      "Add sugar and ghee. Saute until it turns dark orange.",
+      "Add cardamom powder and chopped nuts.",
+      "Serve warm."
+    ],
+    "estimatedCost": 190.0,
+    "suggestions": ["Use juicy red carrots for the best results."]
+  },
+  {
+    "name": "Dhokla",
+    "description": "Soft and spongy steamed snack made from fermented chickpea flour. A Gujarati favorite served with green chutney.",
+    "imageUrl": "https://images.unsplash.com/photo-1601050633647-81a35d37c331?q=80&w=1000&auto=format&fit=crop",
+    "prepTime": 30,
+    "difficulty": "Easy",
+    "category": "Snacks",
+    "servings": 4,
+    "ingredients": [
+      {"name": "Besan (Gram Flour)", "quantity": "2 cups", "cost": 30.0},
+      {"name": "Yogurt", "quantity": "1/2 cup", "cost": 15.0},
+      {"name": "Mustard Seeds", "quantity": "1 tsp", "cost": 2.0},
+      {"name": "Curry Leaves", "quantity": "1 sprig", "cost": 2.0}
+    ],
+    "instructions": [
+      "Mix besan, yogurt, and water to make a smooth batter. Ferment for 4 hours.",
+      "Steam the batter in a greased plate for 15-20 minutes.",
+      "Prepare a tempering of mustard seeds and curry leaves in oil.",
+      "Pour tempering over the steamed dhokla and cut into squares.",
+      "Serve with spicy green chutney."
+    ],
+    "estimatedCost": 60.0,
+    "suggestions": ["Add a pinch of fruit salt just before steaming for extra fluffiness."]
+  },
+  {
+    "name": "Aloo Paratha",
+    "description": "Popular North Indian flatbread stuffed with a spicy potato filling. Served hot with butter, yogurt, and pickles.",
+    "imageUrl": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?q=80&w=1000&auto=format&fit=crop",
+    "prepTime": 40,
+    "difficulty": "Medium",
+    "category": "Breakfast",
+    "servings": 2,
+    "ingredients": [
+      {"name": "Wheat Flour", "quantity": "2 cups", "cost": 20.0},
+      {"name": "Potatoes", "quantity": "3 medium", "cost": 15.0},
+      {"name": "Onion", "quantity": "1 small", "cost": 5.0},
+      {"name": "Butter", "quantity": "2 tbsp", "cost": 20.0}
+    ],
+    "instructions": [
+      "Boil and mash potatoes. Mix with chopped onions and spices.",
+      "Knead a soft dough with wheat flour and water.",
+      "Stuff a small portion of potato filling into a dough ball.",
+      "Roll out into a flatbread and cook on a griddle with ghee.",
+      "Serve hot with a dollop of butter."
+    ],
+    "estimatedCost": 80.0,
+    "suggestions": ["Don't overstuff the paratha to prevent tearing while rolling."]
+  }
+]
